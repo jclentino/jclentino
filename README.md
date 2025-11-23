@@ -26,13 +26,13 @@ Full-stack developer focused on React, Node.js, TypeScript and cloud technologie
 <p>
   <img src="https://camo.githubusercontent.com/543db403f32bd7407771f5aa384667a9be472edce5be363fc1e1f5c73c0ea491/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" height="40" />
   <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" />
+  <img src="https://graphql.org/img/logo.svg" height="40" />
   <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" height="40" />
 
   <!-- Extra backend tools -->
   <img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" height="40" />
   <img src="https://w7.pngwing.com/pngs/669/853/png-transparent-security-token-json-web-token-access-token-representational-state-transfer-others-miscellaneous-angle-rectangle-thumbnail.png" height="40" />
-  <img src="https://pbs.twimg.com/profile_images/470682672235151360/vI0ZZlhZ_400x400.png" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" />
 </p>
 
 ---
