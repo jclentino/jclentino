@@ -31,7 +31,8 @@ Full-stack developer focused on React, Node.js, TypeScript and cloud technologie
 
   <!-- Extra backend tools -->
   <img src="https://cdn.worldvectorlogo.com/logos/auth0.svg" height="40" />
-  <img src="https://w7.pngwing.com/pngs/669/853/png-transparent-security-token-json-web-token-access-token-representational-state-transfer-others-miscellaneous-angle-rectangle-thumbnail.png" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="40" alt="JWT" style="border-radius: 8px;" />
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40" />
 </p>
 
