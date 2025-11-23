@@ -14,7 +14,7 @@ Full-stack developer focused on React, Node.js, TypeScript and cloud technologie
   <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" height="40" />
   <img src="https://redux.js.org/img/redux.svg" height="40" />
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" height="40" />
+  <img src="https://res.cloudinary.com/dg3gyk0gu/image/upload/v1683914713/tags/tanstack.png" height="40" alt="React Query" />
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=js" height="40" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" />
