@@ -39,9 +39,8 @@ Full-stack developer focused on React, Node.js, TypeScript and cloud technologie
 
 ### **BaaS / Tools**
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/strapi.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" height="40" />
+  <img src="https://cdn.simpleicons.org/strapi" height="40" />
+  <img src="https://cdn.simpleicons.org/supabase" height="40" />
 </p>
 
 ---
