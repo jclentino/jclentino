@@ -49,7 +49,7 @@ Full-stack developer focused on React, Node.js, TypeScript and cloud technologie
 ### **Databases**
 <p>
   <img src="https://camo.githubusercontent.com/75c0e8908c40e84391b2fc850726ec18fad805e97a2da567ebfcfca05580f68d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" />
   <img src="https://camo.githubusercontent.com/eb004cb648d3c21c3855a309f35b18f7e383133592d9a501c2d9ed82a9182b62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" height="40" />
 </p>
 
