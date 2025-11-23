@@ -57,10 +57,10 @@ Full-stack developer focused on React, Node.js, TypeScript and cloud technologie
 
 ### **DevOps & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" />
   <img src="https://camo.githubusercontent.com/dc6608a7775ed066d45dce22e3810c4d97318c32de9098569b0a3c8d813f5ef5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" height="40" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" />
   <img src="https://camo.githubusercontent.com/a1e4fc9b67772cd3a37e56ec6ea1b0bcf3cab6d8262d2ca621875fe09e1ea0a7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="40" />
 </p>
 
